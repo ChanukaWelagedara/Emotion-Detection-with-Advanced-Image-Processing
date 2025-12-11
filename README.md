@@ -395,10 +395,6 @@ Contributions are welcome! Please follow these guidelines:
 - Include unit tests for new features
 - Update documentation as needed
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **FER2013 Dataset**: [Kaggle - FER2013](https://www.kaggle.com/datasets/msambare/fer2013)
